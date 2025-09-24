@@ -13,7 +13,7 @@ This repository provides a complete [GeoDock](https://github.com/Graylab/GeoDock
 
 1. **Clone and navigate to the repository:**
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:ravishar313/GeoDock-local.git
    cd geodock
    ```
 
